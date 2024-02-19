@@ -1,3 +1,6 @@
+# IMPORTANT: This software is now hosted in the ConesaLab github: https://github.com/ConesaLab/MOSim  
+For the latest version of the software as well as issues and questions, please head to the new site.  
+
 # MOSim
 MOSim is an R package for the simulation of multi-omic experiments that mimic regulatory mechanisms within the cell. 
 Gene expression (RNA-seq count data) is the central data type simulated by MOSim, while the rest of available omic data types 
